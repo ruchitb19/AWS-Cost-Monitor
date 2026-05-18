@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>AWS Cost Monitor</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>&#128202 AWS Cost Monitor</h1>
+
+        <div class="metrics">
+            <div class="card">
+                <h3>Current Month</h3>
+                <p id="monthly-cost">$0</p>
+            </div>
+            <div class="card">
+                <h3>Daily Avg</h3>
+                <p id="daily-avg">$0</p>
+            </div>
+            <div class="card">
+                <h3>Anomalies</h3>
+                <p id="anomaly-count">0</p>
+            </div>
+        </div>
+
+        <canvas id="costChart"></canvas>
+
+        <div id="alerts" class="alerts"></div>
+    </div>
+
+    <script src="charts.js"></script>
+</body>
+
+</html>

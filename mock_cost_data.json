@@ -1,0 +1,422 @@
+[
+  {
+    "date": "2026-04-17",
+    "daily_total": 45.35,
+    "is_anomaly": false,
+    "services": {
+      "EC2": 11.61,
+      "RDS": 15.9,
+      "S3": 11.96,
+      "Lambda": 12.55,
+      "DynamoDB": 6.07,
+      "CloudWatch": 18.74,
+      "IAM": -31.47
+    }
+  },
+  {
+    "date": "2026-04-18",
+    "daily_total": 50.28,
+    "is_anomaly": false,
+    "services": {
+      "EC2": 15.77,
+      "RDS": 7.42,
+      "S3": 9.49,
+      "Lambda": 16.66,
+      "DynamoDB": 18.21,
+      "CloudWatch": 10.55,
+      "IAM": -27.82
+    }
+  },
+  {
+    "date": "2026-04-19",
+    "daily_total": 55.29,
+    "is_anomaly": false,
+    "services": {
+      "EC2": 14.63,
+      "RDS": 17.68,
+      "S3": 17.95,
+      "Lambda": 15.62,
+      "DynamoDB": 5.33,
+      "CloudWatch": 17.64,
+      "IAM": -33.56
+    }
+  },
+  {
+    "date": "2026-04-20",
+    "daily_total": 40.19,
+    "is_anomaly": false,
+    "services": {
+      "EC2": 18.91,
+      "RDS": 17.37,
+      "S3": 9.41,
+      "Lambda": 9.29,
+      "DynamoDB": 6.96,
+      "CloudWatch": 19.61,
+      "IAM": -41.36
+    }
+  },
+  {
+    "date": "2026-04-21",
+    "daily_total": 54.34,
+    "is_anomaly": false,
+    "services": {
+      "EC2": 7.0,
+      "RDS": 12.15,
+      "S3": 11.08,
+      "Lambda": 9.87,
+      "DynamoDB": 12.78,
+      "CloudWatch": 8.21,
+      "IAM": -6.75
+    }
+  },
+  {
+    "date": "2026-04-22",
+    "daily_total": 41.77,
+    "is_anomaly": false,
+    "services": {
+      "EC2": 16.33,
+      "RDS": 6.15,
+      "S3": 11.11,
+      "Lambda": 16.22,
+      "DynamoDB": 11.28,
+      "CloudWatch": 8.23,
+      "IAM": -27.55
+    }
+  },
+  {
+    "date": "2026-04-23",
+    "daily_total": 48.76,
+    "is_anomaly": false,
+    "services": {
+      "EC2": 12.74,
+      "RDS": 15.74,
+      "S3": 12.48,
+      "Lambda": 12.24,
+      "DynamoDB": 17.47,
+      "CloudWatch": 10.98,
+      "IAM": -32.91
+    }
+  },
+  {
+    "date": "2026-04-24",
+    "daily_total": 56.84,
+    "is_anomaly": false,
+    "services": {
+      "EC2": 13.71,
+      "RDS": 16.44,
+      "S3": 18.47,
+      "Lambda": 16.26,
+      "DynamoDB": 6.65,
+      "CloudWatch": 16.2,
+      "IAM": -30.9
+    }
+  },
+  {
+    "date": "2026-04-25",
+    "daily_total": 49.19,
+    "is_anomaly": false,
+    "services": {
+      "EC2": 10.14,
+      "RDS": 19.43,
+      "S3": 15.72,
+      "Lambda": 8.14,
+      "DynamoDB": 19.44,
+      "CloudWatch": 14.13,
+      "IAM": -37.81
+    }
+  },
+  {
+    "date": "2026-04-26",
+    "daily_total": 56.75,
+    "is_anomaly": false,
+    "services": {
+      "EC2": 16.31,
+      "RDS": 17.0,
+      "S3": 12.7,
+      "Lambda": 8.1,
+      "DynamoDB": 11.76,
+      "CloudWatch": 5.76,
+      "IAM": -14.88
+    }
+  },
+  {
+    "date": "2026-04-27",
+    "daily_total": 92.02,
+    "is_anomaly": true,
+    "services": {
+      "EC2": 16.71,
+      "RDS": 8.04,
+      "S3": 7.21,
+      "Lambda": 17.63,
+      "DynamoDB": 9.58,
+      "CloudWatch": 19.94,
+      "IAM": 12.93
+    }
+  },
+  {
+    "date": "2026-04-28",
+    "daily_total": 45.74,
+    "is_anomaly": false,
+    "services": {
+      "EC2": 16.83,
+      "RDS": 18.76,
+      "S3": 17.1,
+      "Lambda": 18.3,
+      "DynamoDB": 9.33,
+      "CloudWatch": 12.97,
+      "IAM": -47.54
+    }
+  },
+  {
+    "date": "2026-04-29",
+    "daily_total": 75.62,
+    "is_anomaly": true,
+    "services": {
+      "EC2": 8.98,
+      "RDS": 10.99,
+      "S3": 19.27,
+      "Lambda": 12.2,
+      "DynamoDB": 10.4,
+      "CloudWatch": 9.0,
+      "IAM": 4.78
+    }
+  },
+  {
+    "date": "2026-04-30",
+    "daily_total": 43.02,
+    "is_anomaly": false,
+    "services": {
+      "EC2": 14.11,
+      "RDS": 15.59,
+      "S3": 18.67,
+      "Lambda": 10.92,
+      "DynamoDB": 7.78,
+      "CloudWatch": 8.13,
+      "IAM": -32.17
+    }
+  },
+  {
+    "date": "2026-05-01",
+    "daily_total": 40.05,
+    "is_anomaly": false,
+    "services": {
+      "EC2": 12.24,
+      "RDS": 9.9,
+      "S3": 8.05,
+      "Lambda": 6.5,
+      "DynamoDB": 14.18,
+      "CloudWatch": 13.2,
+      "IAM": -24.03
+    }
+  },
+  {
+    "date": "2026-05-02",
+    "daily_total": 55.05,
+    "is_anomaly": false,
+    "services": {
+      "EC2": 18.72,
+      "RDS": 12.58,
+      "S3": 10.9,
+      "Lambda": 10.14,
+      "DynamoDB": 13.23,
+      "CloudWatch": 11.46,
+      "IAM": -21.97
+    }
+  },
+  {
+    "date": "2026-05-03",
+    "daily_total": 42.92,
+    "is_anomaly": false,
+    "services": {
+      "EC2": 7.19,
+      "RDS": 7.13,
+      "S3": 6.89,
+      "Lambda": 9.11,
+      "DynamoDB": 16.08,
+      "CloudWatch": 5.25,
+      "IAM": -8.73
+    }
+  },
+  {
+    "date": "2026-05-04",
+    "daily_total": 48.08,
+    "is_anomaly": false,
+    "services": {
+      "EC2": 12.44,
+      "RDS": 15.23,
+      "S3": 12.81,
+      "Lambda": 7.55,
+      "DynamoDB": 8.3,
+      "CloudWatch": 17.37,
+      "IAM": -25.62
+    }
+  },
+  {
+    "date": "2026-05-05",
+    "daily_total": 42.69,
+    "is_anomaly": false,
+    "services": {
+      "EC2": 13.2,
+      "RDS": 12.96,
+      "S3": 7.23,
+      "Lambda": 10.86,
+      "DynamoDB": 16.07,
+      "CloudWatch": 18.48,
+      "IAM": -36.12
+    }
+  },
+  {
+    "date": "2026-05-06",
+    "daily_total": 40.82,
+    "is_anomaly": false,
+    "services": {
+      "EC2": 6.86,
+      "RDS": 12.58,
+      "S3": 6.41,
+      "Lambda": 6.51,
+      "DynamoDB": 7.7,
+      "CloudWatch": 12.31,
+      "IAM": -11.55
+    }
+  },
+  {
+    "date": "2026-05-07",
+    "daily_total": 52.89,
+    "is_anomaly": false,
+    "services": {
+      "EC2": 5.03,
+      "RDS": 13.51,
+      "S3": 11.58,
+      "Lambda": 16.22,
+      "DynamoDB": 19.97,
+      "CloudWatch": 7.21,
+      "IAM": -20.63
+    }
+  },
+  {
+    "date": "2026-05-08",
+    "daily_total": 43.71,
+    "is_anomaly": false,
+    "services": {
+      "EC2": 8.76,
+      "RDS": 17.19,
+      "S3": 10.99,
+      "Lambda": 18.74,
+      "DynamoDB": 18.62,
+      "CloudWatch": 13.24,
+      "IAM": -43.82
+    }
+  },
+  {
+    "date": "2026-05-09",
+    "daily_total": 49.85,
+    "is_anomaly": false,
+    "services": {
+      "EC2": 11.93,
+      "RDS": 11.6,
+      "S3": 12.57,
+      "Lambda": 5.42,
+      "DynamoDB": 5.7,
+      "CloudWatch": 8.8,
+      "IAM": -6.17
+    }
+  },
+  {
+    "date": "2026-05-10",
+    "daily_total": 59.89,
+    "is_anomaly": false,
+    "services": {
+      "EC2": 16.73,
+      "RDS": 9.04,
+      "S3": 17.05,
+      "Lambda": 17.67,
+      "DynamoDB": 9.4,
+      "CloudWatch": 12.68,
+      "IAM": -22.67
+    }
+  },
+  {
+    "date": "2026-05-11",
+    "daily_total": 48.89,
+    "is_anomaly": false,
+    "services": {
+      "EC2": 17.18,
+      "RDS": 8.67,
+      "S3": 14.45,
+      "Lambda": 6.33,
+      "DynamoDB": 11.76,
+      "CloudWatch": 10.06,
+      "IAM": -19.55
+    }
+  },
+  {
+    "date": "2026-05-12",
+    "daily_total": 50.49,
+    "is_anomaly": false,
+    "services": {
+      "EC2": 17.56,
+      "RDS": 13.07,
+      "S3": 17.29,
+      "Lambda": 9.32,
+      "DynamoDB": 12.63,
+      "CloudWatch": 8.82,
+      "IAM": -28.21
+    }
+  },
+  {
+    "date": "2026-05-13",
+    "daily_total": 56.73,
+    "is_anomaly": false,
+    "services": {
+      "EC2": 11.64,
+      "RDS": 14.84,
+      "S3": 9.41,
+      "Lambda": 9.09,
+      "DynamoDB": 5.36,
+      "CloudWatch": 14.88,
+      "IAM": -8.48
+    }
+  },
+  {
+    "date": "2026-05-14",
+    "daily_total": 53.02,
+    "is_anomaly": false,
+    "services": {
+      "EC2": 18.92,
+      "RDS": 8.46,
+      "S3": 6.2,
+      "Lambda": 10.32,
+      "DynamoDB": 7.26,
+      "CloudWatch": 6.9,
+      "IAM": -5.04
+    }
+  },
+  {
+    "date": "2026-05-15",
+    "daily_total": 42.01,
+    "is_anomaly": false,
+    "services": {
+      "EC2": 9.51,
+      "RDS": 15.42,
+      "S3": 7.73,
+      "Lambda": 19.58,
+      "DynamoDB": 9.55,
+      "CloudWatch": 14.14,
+      "IAM": -33.92
+    }
+  },
+  {
+    "date": "2026-05-16",
+    "daily_total": 89.62,
+    "is_anomaly": true,
+    "services": {
+      "EC2": 18.02,
+      "RDS": 12.61,
+      "S3": 5.4,
+      "Lambda": 7.7,
+      "DynamoDB": 6.06,
+      "CloudWatch": 16.76,
+      "IAM": 23.07
+    }
+  }
+]
